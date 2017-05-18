@@ -1,0 +1,32 @@
+Token: x type: identifier 
+Token:   type: whitespace 
+Token: = type: = 
+Token:   type: whitespace 
+Token: 3 type: integer 
+Token:   type: whitespace 
+Token: y type: identifier 
+Token:   type: whitespace 
+Token: = type: = 
+Token:   type: whitespace 
+Token: 5 type: integer 
+Token:   type: whitespace 
+Token: z type: identifier 
+Token:   type: whitespace 
+Token: = type: = 
+Token:   type: whitespace 
+Token: ( type: ( 
+Token: x type: identifier 
+Token:   type: whitespace 
+Token: + type: + 
+Token:   type: whitespace 
+Token: y type: identifier 
+Token: ) type: ) 
+Token:   type: whitespace 
+Token: / type: / 
+Token:   type: whitespace 
+Token: 3 type: integer 
+Token:   type: whitespace 
+Token: print type: print 
+Token:   type: whitespace 
+Token: z type: identifier 
+Token: !eof! type: !eof! 
